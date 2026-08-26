@@ -1,0 +1,18 @@
+Depth 11–16
+D11-16 rare description
+Aug 12, 2026, 17:07:31
+You reached the final floor of the cave
+Tiles traveled
+971
+Tiles cleared
+816
+Bosses killed
+29/29
+Monsters killed
+185/185
+Tiles looted
+200
+Treasures found
+27/27
+Rewards
+14.83mFighter Gold3,586Diamonds24Pets Recipe192Fighter Equipment Recipe22Wootz53Lock Recipe66Merge Recipe94Enhance Recipe13Sanctum Recipe69Upgrade Recipe17Implicit Recipe209Sculpture Recipe271Strength136Health138Agility115Dexterity
